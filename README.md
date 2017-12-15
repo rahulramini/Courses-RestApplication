@@ -6,4 +6,5 @@ Also integrated the application to Jenkins for continuous Integration
 Technologies used:
 Spring Boot
 Spring MVC
+JMS
 
